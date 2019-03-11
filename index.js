@@ -27,7 +27,7 @@ function dec(n) {
 }
 function makeInt(n){
   if (n.equal.toString){
-    break
+    return false
   }
   var number = parseInt('n', 10)
 
