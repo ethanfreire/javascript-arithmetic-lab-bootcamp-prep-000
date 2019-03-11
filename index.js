@@ -29,7 +29,7 @@ function makeInt(n){
 
   var number = parseInt('n', 10)
   if (number = NaN){
-    retrun true
+    return true
   }
   return number
 }
