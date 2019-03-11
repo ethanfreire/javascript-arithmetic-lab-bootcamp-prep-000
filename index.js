@@ -20,3 +20,15 @@ function inc(n){
   number ++
   return number
 }
+function dec(n) {
+  var number = n
+  number --
+  return number
+}
+function makeInt(n){
+  var number = parseInt('n',10)
+  return number
+}
+function preserveDecimal(n){
+  
+}
