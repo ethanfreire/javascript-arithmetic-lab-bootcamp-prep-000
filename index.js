@@ -26,11 +26,13 @@ function dec(n) {
   return number
 }
 function makeInt(n){
-
-if (parseInt('n', 10 ) == NaN){
-  return NaN
-}else{
-  return parseInt('n', 10 )
+  var parsed = parseInt('n', 10);
+    if (isNaN(parsed)) { 
+      return NaN 
+    }else{
+      return parsed
+    }
+    
 }
 
 }
