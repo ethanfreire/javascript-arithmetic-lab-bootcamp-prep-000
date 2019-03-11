@@ -14,3 +14,9 @@ function divide (a, b){
   var number = a / b
 return number
 }
+function int(n){
+
+  var number = n
+  n ++
+  return number
+}
