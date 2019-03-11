@@ -27,11 +27,11 @@ function dec(n) {
 }
 function makeInt(n){
 
-if (parseInt('n', 10 ) = NaN){
+if (parseInt('n', 10 ) == NaN){
   return NaN
 }else{
   return parseInt('n', 10 )
-}
+} 
 
 }
 function preserveDecimal(n){
