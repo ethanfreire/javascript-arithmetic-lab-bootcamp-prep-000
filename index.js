@@ -1,5 +1,8 @@
-function makeInt(n){
-  n /= 3
+function add(){
+  a + b
+}
+function makeInt(a,b){
+
 }
 function preserveDecimal(n){
 
