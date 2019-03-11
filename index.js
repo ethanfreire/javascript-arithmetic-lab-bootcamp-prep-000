@@ -3,11 +3,14 @@ function add(a, b){
   return number
 }
 function subtract(a, b){
-  a - b
+  var number = b - a
+  return number
 }
 function multiply(a, b){
-  a * b
+  var number = a * b
+  return number
 }
 function divide (a, b){
-  a / b
+  var number = a / b
+return number
 }
