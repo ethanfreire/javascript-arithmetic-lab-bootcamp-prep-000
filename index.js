@@ -26,11 +26,11 @@ function dec(n) {
   return number
 }
 function makeInt(n){
-
-  var number = parseInt('n', 10)
-  if (number = NaN){
-    return true
+  if (n.equal.toString){
+    break
   }
+  var number = parseInt('n', 10)
+
   return number
 }
 function preserveDecimal(n){
