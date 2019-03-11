@@ -30,7 +30,7 @@ function makeInt(n){
     if (isNaN(parsed)) {
       return NaN
     }else{
-      return 0 
+      return 0
     }
 
     return parsed
