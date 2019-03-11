@@ -3,7 +3,7 @@ function add(a, b){
   return number
 }
 function subtract(a, b){
-  var number = b - a
+  var number = a - b
   return number
 }
 function multiply(a, b){
