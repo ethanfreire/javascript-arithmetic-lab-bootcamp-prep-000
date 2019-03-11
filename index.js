@@ -31,7 +31,7 @@ if (parseInt('n', 10 ) == NaN){
   return NaN
 }else{
   return parseInt('n', 10 )
-} 
+}
 
 }
 function preserveDecimal(n){
