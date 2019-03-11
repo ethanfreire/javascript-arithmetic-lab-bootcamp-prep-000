@@ -17,6 +17,6 @@ return number
 function inc(n){
 
   var number = n
-  n ++
+  number ++
   return number
 }
